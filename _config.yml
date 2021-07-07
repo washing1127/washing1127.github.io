@@ -1,3 +1,4 @@
 title: washing
 show_downloads: false
 theme: jekyll-theme-cayman
+markdown: kramdown
