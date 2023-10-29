@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1：Pretraining
-date: 2023-10-29 20:14:48 +0800
+date: 2023-10-29 22:22:40 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
@@ -14,6 +14,7 @@ First, it introduce of grokking, grokking is the phenomenon of the model changes
 Then, this blog elaborates how will the data influence the model in two points.
 - Data factors that influence speed of learning.
 - How to measure the speed of learning.
+
 The factors of data influence the speed of learning in three ways, format of data, curriculum of data and the mix method of the data when pre-train.
 Then it discusses the speed measuring of model learning from micro level to macro level.
 OK, this is about all I can understand of this blog. I listened others' share of this blog, and I begin to know how poor my understanding is.
