@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】Deep Reinforcement Learning from Human Preferences
-date: 2023-10-29 22:18:45 +0800
+date: 2023-10-29 22:58:25 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
@@ -15,3 +15,4 @@ We show that this approach can effectively solve complex RL tasks without access
 This reduces the cost of human oversight far enough that it can be practically applied to SOTA RL systems.
 To demonstrate the flexibility of our approach, we show that we can successfully train complex novel behaviors with about an hour of human time.
 These behaviors and environments are considerably more complex than any which have been previously learned from human feedback.
+# Key Points By AI
