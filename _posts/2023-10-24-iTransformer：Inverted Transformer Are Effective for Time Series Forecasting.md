@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】iTransformer：Inverted Transformer Are Effective for Time Series Forecasting
+title: 【DAILY READING】iTransformer：Inverted Transformer Are Effective for Time Series Forecasting
 date: 2023-10-29 20:15:17 +0800
 categories: [paper]
 tags: [daily reading]

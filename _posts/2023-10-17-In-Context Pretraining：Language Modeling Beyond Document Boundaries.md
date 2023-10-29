@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】In-Context Pretraining：Language Modeling Beyond Document Boundaries
+title: 【DAILY READING】In-Context Pretraining：Language Modeling Beyond Document Boundaries
 date: 2023-10-29 20:15:59 +0800
 categories: [paper]
 tags: [daily reading]

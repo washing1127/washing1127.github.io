@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】Language Is Not All You Need：Aligning Perception with Language Models
+title: 【DAILY READING】Language Is Not All You Need：Aligning Perception with Language Models
 date: 2023-10-29 20:32:57 +0800
 categories: [paper]
 tags: [daily reading]

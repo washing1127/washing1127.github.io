@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1：Pretraining
+title: 【DAILY READING】An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1：Pretraining
 date: 2023-10-29 20:14:48 +0800
 categories: [paper]
 tags: [daily reading]

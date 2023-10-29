@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】DistilBERT, a distilled version of BERT：smaller, faster, cheaper and lighter
+title: 【DAILY READING】DistilBERT, a distilled version of BERT：smaller, faster, cheaper and lighter
 date: 2023-10-29 20:15:11 +0800
 categories: [paper]
 tags: [daily reading]

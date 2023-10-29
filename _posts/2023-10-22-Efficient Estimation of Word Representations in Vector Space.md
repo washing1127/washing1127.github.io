@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】Efficient Estimation of Word Representations in Vector Space
+title: 【DAILY READING】Efficient Estimation of Word Representations in Vector Space
 date: 2023-10-29 20:15:27 +0800
 categories: [paper]
 tags: [daily reading]

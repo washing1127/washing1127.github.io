@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】CodeChain：Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules
+title: 【DAILY READING】CodeChain：Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules
 date: 2023-10-29 20:15:49 +0800
 categories: [paper]
 tags: [daily reading]

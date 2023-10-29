@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】LLaMA：Open and Efficient Foundation Language Models
+title: 【DAILY READING】LLaMA：Open and Efficient Foundation Language Models
 date: 2023-10-29 20:14:55 +0800
 categories: [paper]
 tags: [daily reading]

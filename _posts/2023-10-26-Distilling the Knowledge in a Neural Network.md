@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】Distilling the Knowledge in a Neural Network
+title: 【DAILY READING】Distilling the Knowledge in a Neural Network
 date: 2023-10-29 20:15:01 +0800
 categories: [paper]
 tags: [daily reading]

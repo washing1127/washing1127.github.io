@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】Textbooks Are All You Need
+title: 【DAILY READING】Textbooks Are All You Need
 date: 2023-10-29 20:15:33 +0800
 categories: [paper]
 tags: [daily reading]

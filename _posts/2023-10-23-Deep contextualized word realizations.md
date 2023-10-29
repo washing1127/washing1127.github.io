@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】Deep contextualized word realizations
+title: 【DAILY READING】Deep contextualized word realizations
 date: 2023-10-29 20:15:20 +0800
 categories: [paper]
 tags: [daily reading]

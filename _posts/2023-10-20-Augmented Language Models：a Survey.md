@@ -1,5 +1,5 @@
 ---
-title: 【PAPER】Augmented Language Models：a Survey
+title: 【DAILY READING】Augmented Language Models：a Survey
 date: 2023-10-29 20:15:39 +0800
 categories: [paper]
 tags: [daily reading]
