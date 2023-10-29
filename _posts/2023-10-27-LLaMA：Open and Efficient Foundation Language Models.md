@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】LLaMA：Open and Efficient Foundation Language Models
-date: 2023-10-29 22:24:52 +0800
+date: 2023-10-29 23:03:16 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
@@ -10,9 +10,9 @@ math: true
 # Conclusion By Myself
 This is a really clearly paper.
 It introduces the LLaMA. 
-LLaMA's **training** approach is similar to the methods described in [Brown et al., 2020]();[Chowdhery et al., 2020](), and is inspired by the [Chinchilla scaling laws]().
-Transformer is the base architecture of LLaMA. More specifically, it uses [RMSNorma normalizing function](), replaces the ReLU non-linearity by the [SwiGLU Activation function](), and use the [Rotary Positional Embeddings]() instead of the absolute position embeddings.
-LLaMAs are trained using the [AdamW optimizer](), ant it also tried the optimize of models, such as use the inspiration from [Rabe and Staats]() and the backward from [Dao et al.]() to reduce the memory usage and runtime.
+LLaMA's **training** approach is similar to the methods described in [Brown et al., 2020](#);[Chowdhery et al., 2020](#), and is inspired by the [Chinchilla scaling laws](#).
+Transformer is the base architecture of LLaMA. More specifically, it uses [RMSNorma normalizing function](#), replaces the ReLU non-linearity by the [SwiGLU Activation function](#), and use the [Rotary Positional Embeddings](#) instead of the absolute position embeddings.
+LLaMAs are trained using the [AdamW optimizer](#), ant it also tried the optimize of models, such as use the inspiration from [Rabe and Staats](#) and the backward from [Dao et al.](#) to reduce the memory usage and runtime.
 These papers above are readable for me.
 # Abstract
 We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.
