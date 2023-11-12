@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】In-Context Pretraining：Language Modeling Beyond Document Boundaries
-date: 2023-10-29 20:15:59 +0800
+date: 2023-11-09 09:40:07 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
@@ -33,5 +33,6 @@ Our experiments show In-Context Pretraining offers a simple and scalable approac
 9. The IN-CONTENT PRETRAINING method demonstrates strong language modeling and downstream task performance on all model scales, such as context learning, reading comprehension, and long context reasoning.
 10. The improvements brought about by IN-CONTEXT PRETRAINING include: an average increase of 8% in context learning across 8 datasets; an average improvement of 15% in reading comprehension tasks; output results that are more faithful to the previous context (+16%); a 5% improvement in long context reasoning; and a 9% gain in retrieval enhancement when using external knowledge from sources like Wikipedia.
 11. The results show that by simply changing the order of the pre-training documents, IN-CONTEXT PRETRAINING provides a scalable and simple method to significantly enhance understanding and reasoning about the entire context.
+
 # File
 [[2310.10638] In-Context Pretraining: Language Modeling Beyond Document Boundaries (arxiv.org)](https://arxiv.org/abs/2310.10638)

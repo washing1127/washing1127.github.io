@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】Language Is Not All You Need：Aligning Perception with Language Models
-date: 2023-10-29 20:32:57 +0800
+date: 2023-11-09 09:40:19 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
@@ -31,6 +31,7 @@ Experimental results show that KOSMOS-1 achieves impressive performance on
 1. language understanding, generation, and even **OCR-free NLP** (directly fed with document images)
 2. perception-language tasks, including **multimodal dialogue, image captioning, visual question answering**
 3. vision tasks, such as image recognition with descriptions (specifying **classification via text instructions**).
+
 We also show that **MLLMs can benefit from cross-modal transfer**, i.e., transfer knowledge from language to multimodal, and from multimodal to language.
 In addition, we introduce a dataset of Raven IQ test, which diagnoses the **nonverbal reasoning** capability of MLLMs.
 

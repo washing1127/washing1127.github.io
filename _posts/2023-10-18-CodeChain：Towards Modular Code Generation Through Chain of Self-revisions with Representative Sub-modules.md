@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】CodeChain：Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules
-date: 2023-10-29 20:15:49 +0800
+date: 2023-11-09 09:39:54 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
@@ -14,6 +14,7 @@ Concretely in two step:
 2. Self-revisions by two inner step:
 	1. Clustering these code.
 	2. Use CoT prompt again and ask the llm to generate answer by its previous output.
+
 # Abstract
 Large Language Models (LLMs) have already become quite proficient at solving simpler programming tasks like those in HumanEval or MBPP benchmarks.
 However, solving more complex and competitive programming tasks is still quite challenging for these models - possible due to their tendency to generate solutions as monolithic code blocks instead of decomposing them into logical sub-tasks and sub-modules. On the other hand, experienced programmers instinctively write modularized code with abstraction for solving complex tasks, often reusing previously developed modules.

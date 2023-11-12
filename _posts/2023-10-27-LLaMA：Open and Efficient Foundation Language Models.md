@@ -1,6 +1,6 @@
 ---
 title: 【DAILY READING】LLaMA：Open and Efficient Foundation Language Models
-date: 2023-10-29 23:03:16 +0800
+date: 2023-11-12 20:24:37 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
