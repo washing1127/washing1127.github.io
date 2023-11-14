@@ -4,6 +4,7 @@ date: 2023-11-05 17:43:14 +0800
 categories: [paper]
 tags: [daily reading]
 math: true
+mermaid: true
 ---
 
 
