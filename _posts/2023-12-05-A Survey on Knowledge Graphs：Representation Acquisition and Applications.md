@@ -1,5 +1,5 @@
 ---
-title: 【DAILY READING】A Survey on Knowledge Graphs: Representation Acquisition and Applications
+title: 【DAILY READING】A Survey on Knowledge Graphs：Representation Acquisition and Applications
 date: 2023-12-05 20:17:54 +0800
 categories: [paper]
 tags: [daily reading]
